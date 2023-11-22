@@ -6,6 +6,6 @@ I have respected knowledge in the majority of computer science fields.
 
  I am seeking an opportunity to work as a <strong>software engineer</strong> or <strong>.net developer</strong> at a good-environment company to apply my knowledge and gain more experience.
 
- For contact, kindly Message me on <a href="www.linkedin.com/in/shehab-ahmed-bassiouni-ahmed">LinkedIn</a>
+ For contact, kindly Message me on <a href="https://www.linkedin.com/in/shehab-ahmed-bassiouni-ahmed">LinkedIn</a>
 
 
