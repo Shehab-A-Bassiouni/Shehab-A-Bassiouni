@@ -4,6 +4,6 @@ I'm Shehab, a software engineer who graduated from the <a href="https://cis.asu.
 
 I have respected knowledge in the majority of computer science fields.
 
- I am seeking an opportunity to work as a <span style="text-decoration:underline">software engineer</span> or <u>.net developer</u> at a good-environment company to apply my knowledge and gain more experience.
+ I am seeking an opportunity to work as a <strong>software engineer</strong> or <strong>.net developer</strong> at a good-environment company to apply my knowledge and gain more experience.
 
 
