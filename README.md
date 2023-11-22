@@ -1,6 +1,6 @@
-I'm Shehab, a software engineer who graduated from the facility of computer and information sciences at Ain Shams University.
+I'm Shehab, a software engineer who graduated from the facility of computer and information sciences at Ain Shams University. <a href="https://cis.asu.edu.eg/">facility of computer and information sciences at Ain Shams University</a>.
 
- I'm currently studying systems development and software architecture at the <a href="https://iti.gov.eg/iti/home">ITI</a> <a href="https://iti.gov.eg/iti/programs/details/9M">in the 9-month camp</a>.
+ I'm currently studying systems development and software architecture at the <a href="https://iti.gov.eg/iti/home">ITI</a> in the 9-month camp.
 
 I have respected knowledge in the majority of computer science fields.
 
